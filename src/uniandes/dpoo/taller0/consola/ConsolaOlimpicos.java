@@ -104,7 +104,7 @@ public class ConsolaOlimpicos
 		System.out.println("10. Consultar el atleta todoterreno");
 		System.out.println("11. Consultar los medallistas por país y género");
 		System.out.println("12. Consultar el porcentaje de atletas que son medallistas");
-		System.out.println("13. Consultar el país que al cual representa el atleta");
+		System.out.println("13. Consultar el país al cual representa el atleta");
 		System.out.println("14. Salir de la aplicación\n");
 	}
 	
